@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AutoMapper.Extensions.Microsoft.DependencyInjection.12.0.0.0.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:Microsoft.Extensions.DependencyInjection.Fakes.ShimServiceCollectionExtensions">
+            <summary>Shim type of Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions</summary>
+        </member>
+        <member name="M:Microsoft.Extensions.DependencyInjection.Fakes.ShimServiceCollectionExtensions.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="P:Microsoft.Extensions.DependencyInjection.Fakes.ShimServiceCollectionExtensions.AddAutoMapperClassesIServiceCollectionActionOfIServiceProviderIMapperConfigurationExpressionIEnumerableOfAssemblyServiceLifetime">
+            <summary>Sets the Shim of ServiceCollectionExtensions.AddAutoMapperClasses(IServiceCollection services, Action`2 configAction, IEnumerable`1 assembliesToScan, ServiceLifetime serviceLifetime)</summary>
+        </member>
+        <member name="P:Microsoft.Extensions.DependencyInjection.Fakes.ShimServiceCollectionExtensions.AddAutoMapperIServiceCollectionActionOfIMapperConfigurationExpression">
+            <summary>Sets the Shim of ServiceCollectionExtensions.AddAutoMapper(IServiceCollection services, Action`1 configAction)</summary>
+        </member>
+        <member name="P:Microsoft.Extensions.DependencyInjection.Fakes.ShimServiceCollectionExtensions.AddAutoMapperIServiceCollectionActionOfIMapperConfigurationExpressionAssemblyArray">
+            <summary>Sets the Shim of ServiceCollectionExtensions.AddAutoMapper(IServiceCollection services, Action`1 configAction, Assembly[] assemblies)</summary>
+        </member>
+        <member name="P:Microsoft.Extensions.DependencyInjection.Fakes.ShimServiceCollectionExtensions.AddAutoMapperIServiceCollectionActionOfIMapperConfigurationExpressionIEnumerableOfAssemblyServiceLifetime">
+            <summary>Sets the Shim of ServiceCollectionExtensions.AddAutoMapper(IServiceCollection services, Action`1 configAction, IEnumerable`1 assemblies, ServiceLifetime serviceLifetime)</summary>
+        </member>
+        <member name="P:Microsoft.Extensions.DependencyInjection.Fakes.ShimServiceCollectionExtensions.AddAutoMapperIServiceCollectionActionOfIMapperConfigurationExpressionIEnumerableOfTypeServiceLifetime">
+            <summary>Sets the Shim of ServiceCollectionExtensions.AddAutoMapper(IServiceCollection services, Action`1 configAction, IEnumerable`1 profileAssemblyMarkerTypes, ServiceLifetime serviceLifetime)</summary>
+        </member>
+        <member name="P:Microsoft.Extensions.DependencyInjection.Fakes.ShimServiceCollectionExtensions.AddAutoMapperIServiceCollectionActionOfIMapperConfigurationExpressionTypeArray">
+            <summary>Sets the Shim of ServiceCollectionExtensions.AddAutoMapper(IServiceCollection services, Action`1 configAction, Type[] profileAssemblyMarkerTypes)</summary>
+        </member>
+        <member name="P:Microsoft.Extensions.DependencyInjection.Fakes.ShimServiceCollectionExtensions.AddAutoMapperIServiceCollectionActionOfIServiceProviderIMapperConfigurationExpressionAssemblyArray">
+            <summary>Sets the Shim of ServiceCollectionExtensions.AddAutoMapper(IServiceCollection services, Action`2 configAction, Assembly[] assemblies)</summary>
+        </member>
+        <member name="P:Microsoft.Extensions.DependencyInjection.Fakes.ShimServiceCollectionExtensions.AddAutoMapperIServiceCollectionActionOfIServiceProviderIMapperConfigurationExpressionIEnumerableOfAssemblyServiceLifetime">
+            <summary>Sets the Shim of ServiceCollectionExtensions.AddAutoMapper(IServiceCollection services, Action`2 configAction, IEnumerable`1 assemblies, ServiceLifetime serviceLifetime)</summary>
+        </member>
+        <member name="P:Microsoft.Extensions.DependencyInjection.Fakes.ShimServiceCollectionExtensions.AddAutoMapperIServiceCollectionActionOfIServiceProviderIMapperConfigurationExpressionIEnumerableOfTypeServiceLifetime">
+            <summary>Sets the Shim of ServiceCollectionExtensions.AddAutoMapper(IServiceCollection services, Action`2 configAction, IEnumerable`1 profileAssemblyMarkerTypes, ServiceLifetime serviceLifetime)</summary>
+        </member>
+        <member name="P:Microsoft.Extensions.DependencyInjection.Fakes.ShimServiceCollectionExtensions.AddAutoMapperIServiceCollectionActionOfIServiceProviderIMapperConfigurationExpressionTypeArray">
+            <summary>Sets the Shim of ServiceCollectionExtensions.AddAutoMapper(IServiceCollection services, Action`2 configAction, Type[] profileAssemblyMarkerTypes)</summary>
+        </member>
+        <member name="P:Microsoft.Extensions.DependencyInjection.Fakes.ShimServiceCollectionExtensions.AddAutoMapperIServiceCollectionAssemblyArray">
+            <summary>Sets the Shim of ServiceCollectionExtensions.AddAutoMapper(IServiceCollection services, Assembly[] assemblies)</summary>
+        </member>
+        <member name="P:Microsoft.Extensions.DependencyInjection.Fakes.ShimServiceCollectionExtensions.AddAutoMapperIServiceCollectionIEnumerableOfAssemblyServiceLifetime">
+            <summary>Sets the Shim of ServiceCollectionExtensions.AddAutoMapper(IServiceCollection services, IEnumerable`1 assemblies, ServiceLifetime serviceLifetime)</summary>
+        </member>
+        <member name="P:Microsoft.Extensions.DependencyInjection.Fakes.ShimServiceCollectionExtensions.AddAutoMapperIServiceCollectionTypeArray">
+            <summary>Sets the Shim of ServiceCollectionExtensions.AddAutoMapper(IServiceCollection services, Type[] profileAssemblyMarkerTypes)</summary>
+        </member>
+        <member name="M:Microsoft.Extensions.DependencyInjection.Fakes.ShimServiceCollectionExtensions.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:Microsoft.Extensions.DependencyInjection.Fakes.ShimServiceCollectionExtensions.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:Microsoft.Extensions.DependencyInjection.Fakes.ShimServiceCollectionExtensions.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+    </members>
+</doc>

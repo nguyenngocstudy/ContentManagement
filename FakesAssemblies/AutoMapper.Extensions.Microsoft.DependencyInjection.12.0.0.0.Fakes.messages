@@ -1,0 +1,1 @@
+C:\Training Skill\ContentManagement\Backend\Fakes\AutoMapper.Extensions.Microsoft.DependencyInjection.fakes : warning : Cannot generate stub for Microsoft.Extensions.DependencyInjection.ServiceCollectionExtensions: Type has no Constructors visible to the assembly. The Constructor itself or a parameter may not be visible..
